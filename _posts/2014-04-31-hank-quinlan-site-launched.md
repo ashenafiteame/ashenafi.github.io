@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ashenafi Quinlan, Horrible Cop, Launches Site"
+title: "Ashenafi post 2"
 date: 2014-04-31
 ---
 
