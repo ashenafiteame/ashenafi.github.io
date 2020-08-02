@@ -1,9 +1,9 @@
-# ashenafiteame.github.io
 
-## Welcome to GitHub Pages
-#my name is ashenafi teame
+## Welcome to GitHub Page
+# my name is Ashenafi Teame 
+You can see my portofilio here [my protofilio](https://ashenafiteame.github.io/) and preview the content
 
-You can use the [editor on GitHub](https://github.com/ashenafiteame/ashenafiteame.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://docs.github.com/en/github/working-with-github-pages/getting-started-with-github-pages) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
