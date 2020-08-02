@@ -3,3 +3,4 @@ title: welcome
 description: feel free to describe
 name: Ashenafi Teame
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
