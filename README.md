@@ -1,6 +1,6 @@
 
 ## Welcome to GitHub Page
-# my name is Ashenafi Teame 
+# My name is Ashenafi Teame 
 You can see my portofilio here [my protofilio](https://ashenafiteame.github.io/) and preview the content
 
 You can use the [editor on GitHub](https://docs.github.com/en/github/working-with-github-pages/getting-started-with-github-pages) to maintain and preview the content for your website in Markdown files.
