@@ -1,6 +1,6 @@
 ## Welcome to GitHub Page
 
-# My Name is Ashenafi Teame
+# My Name is Ashenafi T
 
 You can see my portofilio here [my protofilio](https://ashenafiteame.github.io/) and preview the content
 
